@@ -6,9 +6,6 @@
 - 💬 Ask me about **React js , java script ,css**
 
 - 📫 How to reach me **noufel_seif_el_islam.nasri@univ-constanitine2.dz**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
