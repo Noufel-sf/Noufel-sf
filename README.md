@@ -11,7 +11,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Next js<br>🎲 Fun fact: Books is my creative escape</p>
+<p align="left">✨ A junior front-end developer focused on building beautiful, responsive web apps using React and Tailwind, with a strong interest in UI/UX and leadership in team projects.”!
+</p>
+<p align="left">✨ Fun fact: Books is my creative escape</p>
 
 ###
 
