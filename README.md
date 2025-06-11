@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ A junior front-end developer focused on building beautiful, responsive web apps using React and Tailwind, with a strong interest in UI/UX and leadership in team projects.”!
+<p align="left">✨ A junior front-end developer focused on building beautiful, responsive web apps using React(Next js) and Tailwind, with a strong interest in UI/UX and leadership in team projects.”!
 </p>
 <p align="left">✨ Fun fact: Books is my creative escape</p>
 
