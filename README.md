@@ -49,19 +49,10 @@
 </a>
 </p>
 
----
-
 <h3 align="left">🚀 Currently Working On:</h3>
 
 - Building scalable full-stack applications  
-- Improving UI/UX design skills  
-- Exploring Docker & DevOps workflows  
-- Learning advanced system architecture  
+- Improving UI/UX and front end design skills  
+- Learning advanced back end skills
 
----
 
-<h3 align="left">📈 GitHub Stats:</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
