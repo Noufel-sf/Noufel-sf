@@ -1,17 +1,10 @@
-<h3 align="center">A Software Engineer from algeria</h3>
-
 <h1 align="center">I am Noufel Seif El Islam</h1>
 <h3 align="center">Software Engineer | MERN & Next.js </h3>
 
-<p align="center">
-I build high-performance, scalable, and modern web applications using the MERN stack and Next.js.
-Passionate about clean UI, smooth UX, and well-structured backend systems.
-</p>
-
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<h3 align="center">🌐 Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
 </a>
