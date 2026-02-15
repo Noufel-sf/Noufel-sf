@@ -1,20 +1,6 @@
 <h1 align="center">I am Noufel Seif El Islam</h1>
 <h3 align="center">Software Engineer | MERN & Next.js </h3>
 
----
-
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-</a>
-<a href="mailto:yourmail@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="30" />
-</a>
-</p>
-
----
-
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
 <p align="left">
