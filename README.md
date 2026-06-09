@@ -36,7 +36,7 @@
 
 <a href="https://git-scm.com/" target="_blank"> 
   <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"> 
-</a>
+</a> <br/>
 
 
 <h3 align="left">🚀 Currently Working On:</h3>
