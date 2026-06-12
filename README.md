@@ -1,48 +1,40 @@
 <div align="center">
-   <h1>Hi there, I'm Nasri Noufel seif El islam </h1>
+
+# Hi 👋, I'm Nasri Noufel Seif El Islam
+
+### 💻 Software Engineer | 🚀 UI/UX Enthusiast | 🇩🇿 Algeria
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;Building+Modern+%26+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+
 </div>
-</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🚀 Passionate about building modern full-stack web applications
+- 🎨 Focused on creating clean UI/UX experiences
+- ⚡ Love working with performant and scalable technologies
+- 📚 Currently learning advanced backend architecture & system design
+- 🌍 Based in Algeria
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> NSF | 💻 Software Engineer | 🛸 Algeria , mila <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,tailwind,git,github,vscode,docker,firebase,figma" />
+
 </div>
 
+---
 
-### 🔨 Languages and Tools:
+# 🚀 Current Focus
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> 
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg">
-</a>
-
-<a href="https://reactjs.org/" target="_blank"> 
-  <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"> 
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-  <img align="left" alt="Next.js" height="42px" src="https://skillicons.dev/icons?i=nextjs">
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-  <img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
-</a>
-
-<a href="https://nestjs.com/" target="_blank">
-  <img align="left" alt="NestJS" height="42px" src="https://skillicons.dev/icons?i=nestjs">
-</a>
-
-<a href="https://git-scm.com/" target="_blank"> 
-  <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"> 
-</a> <br/>
-
-
-<h3 align="left">🚀 Currently Working On:</h3>
-
-- Building scalable full-stack applications  
-- Improving UI/UX and front end design skills  
-- Learning advanced back end skills
-
-
+```txt
+✔ Building scalable full-stack applications
+✔ Improving UI/UX and frontend design skills
+✔ Learning advanced backend development
+✔ Exploring animations with GSAP & Framer Motion
+✔ Creating high-performance web experiences
