@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🚀 Passionate about building modern full-stack web applications
 - 🎨 Focused on creating clean UI/UX experiences
